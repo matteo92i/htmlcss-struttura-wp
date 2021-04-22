@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    width: 800px;
+    background-color: pink;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+section{
+    width: 800px;
+    height: 200px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.clearfix{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+.fl{
+    float: left;
+    
+}
+.fr{
+    float: right;
+    
+    
+}
+aside, main, aside{
+    height: 300px;
+    margin: auto;
+    
+    
+}
+aside{
+    width: 200px;
+    background-color: blue;
+    
+}
+main{
+    width: 390px;
+    background-color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
