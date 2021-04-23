@@ -10,16 +10,16 @@
 }
 header{
     height: 100px;
-    width: 800px;
+    
     background-color: pink;
-    margin: 0 auto;
+    
     margin-top: 10px;
 }
 section{
-    width: 800px;
+    
     height: 200px;
     background-color: red;
-    margin: 0 auto;
+   
     margin-top: 10px;
     margin-bottom: 10px;
 
@@ -28,7 +28,7 @@ section{
     content: "";
     display: table;
     clear: both;
-    margin: 0 auto;
+    
 }
 
 
@@ -49,22 +49,22 @@ aside, main, aside{
     
 }
 aside{
-    width: 200px;
+    width: 300px;
     background-color: blue;
     
     
 }
 main{
-    width: 390px;
+    width: 590px;
     background-color: blue;
     margin-left: 5px;
     margin-right: 5px;
     
 }
 footer{
-    width: 800px;
+    
     height: 60px;
-    margin: 0 auto;
+    
     background-color: yellow;
     margin-top: 10px;
     margin-bottom: 20px;
