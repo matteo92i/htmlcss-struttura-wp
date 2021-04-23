@@ -28,6 +28,7 @@ section{
     content: "";
     display: table;
     clear: both;
+    margin: 0 auto;
 }
 
 
@@ -50,6 +51,7 @@ aside, main, aside{
 aside{
     width: 200px;
     background-color: blue;
+    
     
 }
 main{
